@@ -10,4 +10,6 @@ link do swagger: https://atividade-login-03-11.onrender.com/aula/swagger-ui/inde
 
 por Rebeca Coelho
 
-Imagens no documento anexo...
+Imagens no documento anexo abaixo...
+
+https://docs.google.com/document/d/1kGHN1phaNvHGZTnAVJ7DpZQDjWkq2-IGxaesWnC9NUc/edit?usp=sharing
